@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o Betuel Rocha de Souza 👋
 
-<!--
-**BetuelRS/BetuelRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Programação | Gestão e Programação de Sistemas Informáticos
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👤 Sobre Mim
+- 🎂 17 anos (nascido em 30/01/2008)
+- 🧑‍💻 Estudante de programação apaixonado por tecnologia
+- 🚀 Foco atual: Dominar linguagem C e algoritmos
+- 🌎 Natural do Brasil, estudando em Portugal
+- 🎯 Objetivo: Tornar-me desenvolvedor de sistemas
+
+## 👨‍🎓 Formação Acadêmica
+- **Curso:** Técnico de Gestão e Programação de Sistemas Informáticos (10º ano)  
+- **Instituição:** Escola Secundária de Palmela, Portugal  
+- **Foco:** Programação em C, algoritmos e fundamentos de sistemas informáticos
+
+## 🏆 Conquista Recente
+- **ToPAS LX Lisboa 2025:** 🥇 6º lugar entre 26 equipas na competição nacional de programação 
+
+## 🧠 Habilidades em Desenvolvimento
+```c
+#include <stdio.h>
+
+int main() {
+  printf("Domínio crescente em:\n");
+  printf("  • Lógica de Programação\n");
+  printf("  • Estruturas de Dados\n");
+  printf("  • Desenvolvimento de Algoritmos\n");
+  printf("  • Programação em Baixo Nível\n");
+  return 0;
+}
