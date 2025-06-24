@@ -11,14 +11,14 @@
 ## 👤 Sobre Mim
 - 🎂 17 anos (nascido em 30/01/2008)
 - 🧑‍💻 Estudante de programação apaixonado por tecnologia
-- 🚀 Foco atual: Dominar linguagem C e algoritmos
+- 🚀 Foco atual: Dominar linguagem C e posteriormente PHP
 - 🌎 Natural do Brasil, estudando em Portugal
 - 🎯 Objetivo: Tornar-me desenvolvedor de sistemas
 
 ## 👨‍🎓 Formação Acadêmica
 - **Curso:** Técnico de Gestão e Programação de Sistemas Informáticos (10º ano)  
 - **Instituição:** Escola Secundária de Palmela, Portugal  
-- **Foco:** Programação em C, algoritmos e fundamentos de sistemas informáticos
+- **Foco:** Programação em C e fundamentos de sistemas informáticos
 
 ## 🏆 Conquista Recente
 - **ToPAS LX Lisboa 2025:** 🥇 6º lugar entre 26 equipas na competição nacional de programação 
