@@ -21,13 +21,8 @@
 <!-- GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BetuelRS&theme=tokyo-night"/>
 
-<br><br>
 
-<!-- TECNOLOGIAS -->
-<img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js"/>
+
 
 <br><br>
 
