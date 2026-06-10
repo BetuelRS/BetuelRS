@@ -25,8 +25,6 @@
 <br/><br/>
 
 <!-- Estatísticas do GitHub -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=BetuelRS&show_icons=true&theme=radical"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetuelRS&layout=compact&theme=radical"/>
 
 <br/><br/>
 
