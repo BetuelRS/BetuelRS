@@ -31,6 +31,13 @@
 
 <br/>
 
+<!-- Quote -->
+<p align="center">
+  <img src="https://github-readme-quotes.vercel.app/quote?theme=radical&animation=gif&layout=default&font=source" alt="quote" />
+</p>
+
+<br/>
+
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -72,11 +79,26 @@
 
 <br/>
 
+## 🏔️ 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" width="90%" />
+</p>
+
+<br/>
+
 ## 📊 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BetuelRS&theme=react-dark&hide_border=true&area=true&radius=10" width="98%" alt="activity graph" />
 </div>
+
+<br/>
+
+<!-- Metrics -->
+<p align="center">
+  <img src="https://metrics.lecoq.io/BetuelRS?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=America%2FSao_Paulo" alt="metrics" width="90%" />
+</p>
 
 <br/>
 
@@ -94,4 +116,5 @@
   <img src="https://komarev.com/ghpvc/?username=BetuelRS&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/BetuelRS?style=flat-square&color=58A6FF" alt="Followers" />
   <img src="https://img.shields.io/github/stars/BetuelRS?style=flat-square&color=58A6FF" alt="Stars" />
+  <img src="https://img.shields.io/badge/AI--assisted-100%25-58A6FF?style=flat-square" alt="AI-assisted" />
 </p>
